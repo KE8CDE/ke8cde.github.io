@@ -1,7 +1,6 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f4f4f400;
     margin: 0;
     padding: 20px;
 }
@@ -10,4 +9,8 @@ h1 {
     font-weight: bold;
     text-align: center;
     color: antiquewhite;
+}
+
+#drone{
+    text-align: center;
 }
